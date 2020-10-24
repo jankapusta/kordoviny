@@ -595,3 +595,26 @@ Last change: 27/07/2016
 
 	.column-item{height:40px;text-align:center;background-color:#242424;}
 	.column-item p{font-size:13px;color:#ffffff;font-family: 'Montserrat', sans-serif;font-weight:400;padding-top:11px;}
+
+
+
+
+/* Mobile */
+@media screen and (max-width:767px) {
+
+	.col-medium-4{width:32%; display: inline-block;}
+
+	.portfolio-section *[class*="col-"] {
+		padding: 0px 1px;
+	}
+
+	.portfolio-item {
+		margin-bottom: 1px;
+	}
+	body.boxed .portfolio-section .container {
+		padding: 0px 10px 0px 17px;
+	}
+	.header-main .container {
+		background-color: white;
+	}
+}
