@@ -17,7 +17,7 @@
 			$from = "Intent Theme <email@yourdomain.com>";
 			
 			// email address to receive the enquiry - CHANGE THIS TO YOUR DESIRED EMAIL ADDRESS
-			$to = "example@example.com";
+			$to = "annadrozdova1@gmail.com";
 
 			// headers of the email sent
 			$headers = "From:" . $from . "\r\n";
